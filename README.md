@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ISI_CODE**
 
-- 🌱 I’m currently learning **React, Kubernets**
+- 🌱 I’m currently learning **Angular, Kubernets**
 
 - 💬 Ask me about **Node.js, Express, Docker**
 
