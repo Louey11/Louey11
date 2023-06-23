@@ -2,7 +2,9 @@
 <h3 align="center">Backend developer and DevOps enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=louey11&label=Profile%20views&color=0e75b6&style=flat" alt="louey11" /> </p>
-
+<p align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/779602225695898637/0807F669892C401BA9C1570B4C71CEAD8B20C116/"  height="relative" width="400px">
+</p>
 
 
 - 🔭 I’m currently working on **ISI_CODE**
@@ -147,12 +149,6 @@
       height="40"
     />
   </a>
-  
-  </a>
-  
-  </a>
-
-  </a>
   <a
     href="https://www.java.com"
     target="_blank"
@@ -164,10 +160,6 @@
       width="40"
       height="40"
     />
-  </a>
-
-  </a>
-  
   </a>
   
 </p>
@@ -254,9 +246,13 @@
     </a
   ></a>
 </p>
- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=louey11" alt="louey11" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=louey11&show_icons=true&locale=en&layout=compact" alt="louey11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=louey11&show_icons=true&locale=en" alt="louey11" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=louey11&show_icons=true&locale=en&layout=compact" alt="louey11" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=louey11&show_icons=true&locale=en" alt="louey11" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Louey11&" alt="Louey11" /></p>
+
+
 
