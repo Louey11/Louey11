@@ -166,7 +166,19 @@
 
 <h3 align="center">Tools:</h3>
 <p align="center">
-   <a
+  <a
+    href="https://https://www.ansible.com"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"
+      alt="bash"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
     href="https://www.gnu.org/software/bash/"
     target="_blank"
     rel="noreferrer"
