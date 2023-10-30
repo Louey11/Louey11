@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **ISI_CODE**
 
-- 🌱 I’m currently learning **Angular, Kubernets**
+- 🌱 I’m currently learning **CI/CD, Kubernets**
 
 - 💬 Ask me about **Node.js, Express, Docker**
 
